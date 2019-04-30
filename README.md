@@ -8,7 +8,7 @@
 						<br />
 						<br />
 							<center>	
-https://img.youtube.com/vi/JNmRIfzAe9o/maxresdefault.jpg
+<img src="https://img.youtube.com/vi/JNmRIfzAe9o/maxresdefault.jpg" alt="telas" />
 				</center>
 							<hr />
 						Protótipo feito no Lazarus versão 1.2.0 FPC 2.6.2. Protótipo feito com arquitetura cliente/servidor (duas camadas).

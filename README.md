@@ -7,10 +7,9 @@
 						Configure a qualidade de exibição para "automático" ou selecione a melhor qualidade (HD).
 						<br />
 						<br />
-							<center>
-								</html>
-[![Watch the video](https://img.youtube.com/vi/JNmRIfzAe9o/maxresdefault.jpg)](https://youtu.be/JNmRIfzAe9o)
-				<html></center>
+							<center>	
+https://img.youtube.com/vi/JNmRIfzAe9o/maxresdefault.jpg
+				</center>
 							<hr />
 						Protótipo feito no Lazarus versão 1.2.0 FPC 2.6.2. Protótipo feito com arquitetura cliente/servidor (duas camadas).
 </html>

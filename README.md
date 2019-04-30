@@ -1,6 +1,6 @@
 <html>
 						<h1>SAT-CF-e [Lazarus]</h1>
-	Este protótipo funcional foi desenvolvido juntamente com o e-book Aprendendo a Desenvolver o SAT-CF-e [Lazarus] disponível em http://www.alberteije.com/livros/lazarus_sat/. Abaixo você pode ver a descrição de algumas funcionalidades desse protótipo. 
+	Este protótipo funcional foi desenvolvido juntamente com o e-book Aprendendo a Desenvolver o SAT-CF-e [Lazarus] disponível em http://www.alberteije.com/livros/lazarus_sat/. 
 						<br />
 						<br />
 						Segue um vídeo apresentando este protótipo feito em Lazarus.
